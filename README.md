@@ -1,7 +1,11 @@
-s01t04n02 Llopart Gil Ismael
+s01t05n02 Llopart Gil Ismael
+
+Ús:
+
+java -jar exercise-1.jar savelist  (llança el programa segons la configuració de iu.properties)
 
 Fonts:
 
-https://www.vogella.com/tutorials/Hamcrest/article.html (FEATURE MATCHER)
+https://www.baeldung.com/java-properties (JAVA PROPERTIES)
 
-https://www.youtube.com/watch?v=kyUrttSoGgY  (MATCHERS PERSONALITZATS)
+https://www.arquitecturajava.com/java-properties-files-y-como-usarlos/ (JAVA PROPERTIES)
